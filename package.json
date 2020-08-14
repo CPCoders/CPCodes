@@ -1,0 +1,19 @@
+{
+  "name": "cpcodes",
+  "version": "1.0.2",
+  "description": "A Utility library for competitive coding",
+  "main": "cpcodes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prskid1000/CPCodes.git.git"
+  },
+  "author": "Prithwiraj Samanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prskid1000/CPCodes.git/issues"
+  },
+  "homepage": "https://github.com/prskid1000/CPCodes.git#readme"
+}

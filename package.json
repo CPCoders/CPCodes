@@ -1,11 +1,7 @@
 {
   "name": "cpcodes",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A Utility library for competitive coding",
-  "main": "cpcodes",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prskid1000/CPCodes.git.git"

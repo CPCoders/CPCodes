@@ -9,9 +9,9 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 * Clone your fork to your local machine
 
 ```bash
-git clone https://github.com/your-username/CPMath.git
+git clone https://github.com/your-username/CPCodes.git
 ```
-* Open CPMath Folder in your Favorite text editor
+* Open CPCodes Folder in your Favorite text editor
 * Create a branch
 
 ```bash

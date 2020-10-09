@@ -34,8 +34,8 @@ If you want the detailed guide on how to create a pull request then you may clic
 
 * Code Reviews
 ```bash
-LGTM # Looks Good To Me 
-CIAL # Code Is A Liability 
+LGTM # Looks Good To Me
+CIAL # Code Is A Liability
 WIP # work in progress, do not merge yet
 ACK # acknowledgement, i.e. agreed/accepted change
 ```
@@ -57,7 +57,11 @@ A NPM utility library for CP
 
 1)Disjoint-Set-Union<br>
 2)Knuth–Morris–Pratt<br>
-3)...more to come<br>
+3)Next Greater Element in Left
+4)Next Smaller Element in Left
+5)Next Greater Element in Right
+6)Next Smaller Element in Right
+7)...more to come<br>
 
 ## NPM Link
 https://www.npmjs.com/package/cpcodes
@@ -113,4 +117,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-

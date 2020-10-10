@@ -1,5 +1,10 @@
 # CPCodes
-A NPM utility library for CP
+![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)
+![Version](https://img.shields.io/npm/v/cpcodes)
+![Total Downloads](https://img.shields.io/npm/dt/cpcodes)
+![Monthly Downloads](https://img.shields.io/npm/dm/cpcodes)
+![Weekly Downloads](https://img.shields.io/npm/dw/cpcodes)
+<br>A NPM utility library for CP
 
 ## Algotihm List
 
@@ -14,15 +19,6 @@ A NPM utility library for CP
 ## NPM Link
 https://www.npmjs.com/package/cpcodes
 
-## Status
-Repository status([badge](https://img.shields.io/badge/)):
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)
-![Version](https://img.shields.io/npm/v/cpcodes)
-![Total Downloads](https://img.shields.io/npm/dt/cpcodes)
-![Monthly Downloads](https://img.shields.io/npm/dm/cpcodes)
-![Weekly Downloads](https://img.shields.io/npm/dw/cpcodes)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Getting started
 

@@ -6,6 +6,7 @@
 ![Weekly Downloads](https://img.shields.io/npm/dw/cpcodes)
 <br>A NPM utility library for CP
 
+
 ## Algotihm List
 
 1)Disjoint-Set-Union<br>

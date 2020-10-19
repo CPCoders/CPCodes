@@ -15,7 +15,11 @@
 4)Next Smaller Element in Left<br>
 5)Next Greater Element in Right<br>
 6)Next Smaller Element in Right<br>
-7)...more to come<br>
+7)Binary Search<br>
+8)Ternary Search<br>
+9)Manacher<br>
+10)Rabin-Karp<br>
+11)...more to come<br>
 
 ## NPM Link
 https://www.npmjs.com/package/cpcodes
@@ -37,9 +41,6 @@ Kindly go through our
 to take a moment and familiarise with the spirit of opensource.
 
 ## Contributing Guide
-
-If you're have worked on the front-end part make PR to the front-end branch
-and same goes for the back-end too.
 
 ### PR rules:
 - Kindly follow the Pull Request template provided.

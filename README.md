@@ -19,7 +19,16 @@
 8)Ternary Search<br>
 9)Manacher<br>
 10)Rabin-Karp<br>
-11)...more to come<br>
+11)Kruksal(SPT)<br>
+12)Arpa's Trick(Fast queries using DSU)<br>
+13)LCA using DSU<br>
+14)Depth First Search<br>
+15)Breadth First Search<br>
+16)Bellman Ford<br>
+17)Dijikstra's<br>
+18)Prefix-Suffix Array<br>
+19)Edmonds-Karp(Network-Flow)<br>
+20)...more to come<br>
 
 ## NPM Link
 https://www.npmjs.com/package/cpcodes

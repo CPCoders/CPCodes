@@ -28,7 +28,8 @@
 17)Dijikstra's<br>
 18)Prefix-Suffix Array<br>
 19)Edmonds-Karp(Network-Flow)<br>
-20)...more to come<br>
+20)Kanade's Algorithm(Max Subarray Sum)<br>
+21)...more to come<br>
 
 ## NPM Link
 https://www.npmjs.com/package/cpcodes

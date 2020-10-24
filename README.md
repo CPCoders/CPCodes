@@ -68,13 +68,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://biograph.dx.am/"><img src="https://avatars0.githubusercontent.com/prskid1000" width="100px;" alt=""/><br /><sub><b>prskid1000</b></sub></a><br /><a href="https://github.com/prskid1000/Template/commits?author=prskid1000" title="Code">💻</a></td>
-  </tr>
- <tr>
-    <td align="center"><a href="http://biograph.dx.am/"><img src="https://avatars0.githubusercontent.com/Captain-Kirk83" width="100px;" alt=""/><br /><sub><b>prskid1000</b></sub></a><br /><a href="https://github.com/prskid1000/Template/commits?author=prskid1000" title="Code">💻</a></td>
-  </tr>
- <tr>
-    <td align="center"><a href="http://biograph.dx.am/"><img src="https://avatars0.githubusercontent.com/ayushagrawal41" width="100px;" alt=""/><br /><sub><b>prskid1000</b></sub></a><br /><a href="https://github.com/prskid1000/Template/commits?author=prskid1000" title="Code">💻</a></td>
+    <td align="center"><a href="http://biograph.dx.am/"><img src="https://avatars0.githubusercontent.com/prskid1000" width="100px;" alt=""/><br /><sub><b>prskid1000</b></sub></a><br /><a href="https://github.com/prskid1000/CPMath/commits?author=prskid1000" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Captain-Kirk83"><img src="https://avatars0.githubusercontent.com/Captain-Kirk83" width="100px;" alt=""/><br /><sub><b>Captain-Kirk83</b></sub></a><br /><a href="https://github.com/Captain-Kirk83/CPMath/commits?author=Captain-Kirk83" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ayushagrawal41"><img src="https://avatars0.githubusercontent.com/ayushagrawal41" width="100px;" alt=""/><br /><sub><b>ayushagrawal41</b></sub></a><br /><a href="https://github.com/ayushagrawal41/CPMath/commits?author=ayushagrawal41" title="Code">💻</a></td>
   </tr>
 </table>
 

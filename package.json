@@ -22,7 +22,8 @@
     "manacher": "node ./Examples/manacher.js",
     "smaller_greater_stack": "node ./Examples/smaller_greater_stack.js",
     "binary_search": "node ./Examples/binary_search.js",
-    "ternary_search": "node ./Examples/ternary_search.js"
+    "ternary_search": "node ./Examples/ternary_search.js",
+    "quick_sort": "node ./Examples/quick_sort.js"
   },
   "author": "Prithwiraj Samanta",
   "license": "ISC",

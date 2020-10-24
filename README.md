@@ -1,5 +1,5 @@
 # CPCodes
-![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)
+![All Contributors](https://img.shields.io/github/contributors/prskid1000/CPCodes)
 ![Version](https://img.shields.io/npm/v/cpcodes)
 ![Total Downloads](https://img.shields.io/npm/dt/cpcodes)
 ![Monthly Downloads](https://img.shields.io/npm/dm/cpcodes)

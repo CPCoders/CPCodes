@@ -30,6 +30,7 @@
 19)Edmonds-Karp(Network-Flow)<br>
 20)Kanade's Algorithm(Max Subarray Sum)<br>
 21)Quick Sort<br>
+22)Bubble Sort<br>
 22)...more to come<br>
 
 ## NPM Link

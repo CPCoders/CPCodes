@@ -1,6 +1,6 @@
 {
   "name": "cpcodes",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "description": "A Utility library for competitive coding",
   "repository": {
     "type": "git",
@@ -11,6 +11,7 @@
     "kanade": "node ./Examples/kanade.js",
     "kmp": "node ./Examples/kmp.js",
     "bubblesort": "node ./Examples/bubblesort.js",
+    "selection_sort": "node ./Examples/selection_sort.js",
     "kruksal": "node ./Examples/kruksal.js",
     "arpa": "node ./Examples/arpa.js",
     "lca": "node ./Examples/lca.js",
@@ -20,6 +21,7 @@
     "rabin_karp": "node ./Examples/rabin_karp.js",
     "prefix_suffix": "node ./Examples/prefix_suffix.js",
     "edmonds_karp": "node ./Examples/edmonds_karp.js",
+    "insertion_sort": "node ./Examples/insertion_sort.js",
     "manacher": "node ./Examples/manacher.js",
     "smaller_greater_stack": "node ./Examples/smaller_greater_stack.js",
     "binary_search": "node ./Examples/binary_search.js",

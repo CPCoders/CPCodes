@@ -31,10 +31,12 @@
 20)Kanade's Algorithm(Max Subarray Sum)<br>
 21)Quick Sort<br>
 22)Bubble Sort<br>
-22)...more to come<br>
+23)Selection Sort<br>
+24)Insertion Sort<br>
+25)...more to come<br>
 
-## NPM Link
-https://www.npmjs.com/package/cpcodes
+## Blog
+https://progwithme.blogspot.com/
 
 
 ## Getting started

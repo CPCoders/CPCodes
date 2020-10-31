@@ -26,6 +26,12 @@
     "smaller_greater_stack": "node ./Examples/smaller_greater_stack.js",
     "binary_search": "node ./Examples/binary_search.js",
     "ternary_search": "node ./Examples/ternary_search.js",
+    "merge_sort": "node ./Examples/merge_sort.js",
+    "heap": "node ./Examples/heap.js",
+    "heap_sort": "node ./Examples/heap_sort.js",
+    "bst": "node ./Examples/bst.js",
+    "reservior": "node ./Examples/reservior.js",
+    "random": "node ./Examples/random.js",
     "quick_sort": "node ./Examples/quick_sort.js"
   },
   "author": "Prithwiraj Samanta",

@@ -9,31 +9,37 @@
 
 ## Algotihm List
 
-1)Disjoint-Set-Union<br>
-2)Knuth–Morris–Pratt<br>
-3)Next Greater Element in Left<br>
-4)Next Smaller Element in Left<br>
-5)Next Greater Element in Right<br>
-6)Next Smaller Element in Right<br>
-7)Binary Search<br>
-8)Ternary Search<br>
-9)Manacher<br>
-10)Rabin-Karp<br>
-11)Kruksal(SPT)<br>
-12)Arpa's Trick(Fast queries using DSU)<br>
-13)LCA using DSU<br>
-14)Depth First Search<br>
-15)Breadth First Search<br>
-16)Bellman Ford<br>
-17)Dijikstra's<br>
-18)Prefix-Suffix Array<br>
-19)Edmonds-Karp(Network-Flow)<br>
-20)Kanade's Algorithm(Max Subarray Sum)<br>
-21)Quick Sort<br>
-22)Bubble Sort<br>
-23)Selection Sort<br>
-24)Insertion Sort<br>
-25)...more to come<br>
+- Disjoint-Set-Union<br>
+- Knuth–Morris–Pratt<br>
+- Random Sampling<br>
+- Next Smaller Element in Left<br>
+- LCA using DSU<br>
+- Edmonds-Karp(Network-Flow)<br>
+- Binary Search<br>
+- Ternary Search<br>
+- Manacher<br>
+- Rabin-Karp<br>
+- Kruksal(SPT)<br>
+- Arpa's Trick(Fast queries using DSU)<br>
+- Next Greater Element in Right<br>
+- Depth First Search<br>
+- Breadth First Search<br>
+- Bellman Ford<br>
+- Dijikstra's<br>
+- Prefix-Suffix Array<br>
+- Next Smaller Element in Right<br>
+- Kanade's Algorithm(Max Subarray Sum)<br>
+- Quick Sort<br>
+- Bubble Sort<br>
+- Selection Sort<br>
+- Insertion Sort<br>
+- Merge Sort<br>
+- Heap<br>
+- Heap Sort<br>
+- Binary Search Tree<br>
+- Next Greater Element in Left<br>
+- Reservoir Sampling<br>
+- ...more to come<br>
 
 ## Blog
 https://progwithme.blogspot.com/

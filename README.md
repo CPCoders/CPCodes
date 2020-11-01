@@ -39,6 +39,7 @@
 - Binary Search Tree<br>
 - Next Greater Element in Left<br>
 - Reservoir Sampling<br>
+- Aho Corasick Pattern Search<br>
 - ...more to come<br>
 
 ## Blog

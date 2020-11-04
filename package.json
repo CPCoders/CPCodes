@@ -1,6 +1,6 @@
 {
   "name": "cpcodes",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "A Utility library for competitive coding",
   "repository": {
     "type": "git",
@@ -33,6 +33,7 @@
     "reservior": "node ./Examples/reservior.js",
     "random": "node ./Examples/random.js",
     "aho_corasick": "node ./Examples/aho_corasick.js",
+    "floodfill": "node ./Examples/floodfill.js",
     "quick_sort": "node ./Examples/quick_sort.js"
   },
   "author": "Prithwiraj Samanta",
